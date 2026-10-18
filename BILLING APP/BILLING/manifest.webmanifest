@@ -1,6 +1,6 @@
 {
   "name": "Latesto Drycleaners",
-  "short_name": "Latesto",
+  "short_name": "LATESTO",
   "description": "Orders, customers, inventory and invoices for your dry cleaning shop",
   "start_url": "./index.html",
   "scope": "./",
